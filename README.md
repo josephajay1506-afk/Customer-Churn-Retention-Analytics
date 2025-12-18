@@ -67,10 +67,10 @@ This project demonstrates how analytics can directly support business decisions 
 
 ---
 ## 📷 Dashboard Preview
-![Executive Summary](screenshots/executive_summary.png)
-![Churn drivers](screenshots/churn_drivers.png)
-![Customer segmentation](screenshots/customer_segmentation.png)
-![Retention strategy](screenshots/retention_strategy.png)
+![Executive Summary](screenshots/Executive_summary.png)
+![Churn drivers](screenshots/Churn_drivers.png)
+![Customer segmentation](screenshots/Customer_segmentation.png)
+![Retention strategy](screenshots/Retention_strategy.png)
 
 ## 👤 Author
 Ajay A 
