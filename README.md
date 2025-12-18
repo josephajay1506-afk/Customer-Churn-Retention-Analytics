@@ -66,7 +66,12 @@ This project demonstrates how analytics can directly support business decisions 
 - `powerbi/` – Interactive Power BI dashboard
 
 ---
+## 📷 Dashboard Preview
+![Executive Summary](screenshots/executive_summary.png)
+![Churn drivers](screenshots/churn_drivers.png)
+![Customer segmentation](screenshots/customer_segmentation.png)
+![Retention strategy](screenshots/retention_strategy.png)
 
 ## 👤 Author
-Ajay Joseph  
+Ajay A 
 Aspiring Data Analyst
